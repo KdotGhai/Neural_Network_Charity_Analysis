@@ -10,7 +10,7 @@ We use the following methods for the analysis:
 - optimize the model.
 
 ## Resources
-- Data Source: [charity_data.csv](https://github.com/cedoula/Neural_Network_Charity_Analysis/blob/main/Resources/charity_data.csv)
+- Data Source: [charity_data.csv](https://github.com/KdotGhai/Neural_Network_Charity_Analysis/blob/1f7070c13ea6d89b1f86bce925bcd17ac5c222b8/Resources/charity_data.csv)
 - Software: Python 3.7.7, Anaconda Navigator 1.9.12, Conda 4.8.4, Jupyter Notebook 6.0.3
 
 ## Results
